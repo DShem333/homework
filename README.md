@@ -1,2 +1,0 @@
-# homework
-frist git
